@@ -1,5 +1,9 @@
-button {
-    color: blueviolet;
-    font-size: 30px;
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+body {
+    
+}
+
+.mediaTalla {
+    width: 40%;
 }
